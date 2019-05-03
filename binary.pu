@@ -1,0 +1,9 @@
+def check(string)
+S={'0',''}
+if s==p
+print("yes")
+else:
+print("no")
+if_name=="_main_":
+string="10101000111"
+Check(string)
